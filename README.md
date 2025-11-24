@@ -62,7 +62,7 @@ add_time("10:10 PM", "3:30")
 
 
 
-git clone https://github.com/your-username/time-calculator.git
+git clone https://github.com/natnaeltassew/time_calculator.git
 
 2. Run the file:
 
